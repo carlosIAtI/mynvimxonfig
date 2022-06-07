@@ -1,0 +1,2 @@
+# mynvimxonfig
+config nvim
